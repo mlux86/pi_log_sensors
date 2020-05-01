@@ -1,2 +1,5 @@
-# pi_log_sensors
-Environmental sensor logging on the Raspberry PI
+# Environmental sensor logging on the Raspberry PI
+
+Usage: `$ ./plot_graph.py <log file>`
+
+![Sample graph](../blob/master/sample_graph.png?raw=true)
