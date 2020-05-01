@@ -2,4 +2,4 @@
 
 Usage: `$ ./plot_graph.py <log file>`
 
-![Sample graph](../blob/master/sample_graph.png?raw=true)
+![Sample graph](../master/sample_graph.png?raw=true)
